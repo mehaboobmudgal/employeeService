@@ -1,5 +1,6 @@
-package com.mudgal.ems;
+package com.mudgal.ems.controller;
 
+import com.mudgal.ems.service.EmployeeService;
 import com.mudgal.ems.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

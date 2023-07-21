@@ -1,4 +1,4 @@
-package com.mudgal.ems;
+package com.mudgal.ems.service;
 
 import com.mudgal.ems.model.Employee;
 import com.mudgal.ems.repository.EmployeeRepo;
